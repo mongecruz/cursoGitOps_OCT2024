@@ -36,28 +36,4 @@ spec:
       - name: pre-sync-job
         image: busybox  #Usa la imagen BusyBox, que es una imagen minimalista de Linux, ideal para ejecutar comandos simples.
         command: ['sh', '-c', 'echo PreSync Job running before Apache deployment']
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
       restartPolicy: Never
